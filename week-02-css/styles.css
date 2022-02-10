@@ -1,15 +1,15 @@
 /* Element selector that gives every p element a monospace font. */
 p {
-  font-family: monospace;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 /* Class selector that gives elements with this class a big bold style. */
 .big {
-  font-size: large;
-  font-weight: bold;
+  font-size: medium;
+  font-weight: lighter;
 }
 
 /* ID selector that gives the element with this ID a red style. */
 #boldly {
-  color: red;
+  color:purple;
 }
